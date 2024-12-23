@@ -1,0 +1,15 @@
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\bin\Debug\cafe_management.exe.config
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\bin\Debug\cafe_management.exe
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\bin\Debug\cafe_management.pdb
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.csprojResolveAssemblyReference.cache
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.login_page.resources
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.Properties.Resources.resources
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.signup_page.resources
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.csproj.GenerateResource.Cache
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.exe
+c:\users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.pdb
+C:\Users\welcome\Documents\Visual Studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.Admin_page.resources
+C:\Users\welcome\Documents\Visual Studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.item_page.resources
+C:\Users\welcome\Documents\Visual Studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.Order_page.resources
+C:\Users\welcome\Documents\Visual Studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.Update.resources
+C:\Users\welcome\documents\visual studio 2012\Projects\cafe_management\cafe_management\obj\Debug\cafe_management.Finalpage.resources
